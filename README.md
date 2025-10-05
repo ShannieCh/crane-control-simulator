@@ -1,5 +1,3 @@
-Here you go! This is your updated **README.md** with the MIT license badge at the top:
-
 ````markdown
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
